@@ -1,4 +1,4 @@
-### hi there 👋
+### Hi there 👋
 
 <hr>
 
@@ -6,5 +6,5 @@
 
 | Project             | Description         | Progress            |
 | ------------------- | ------------------- | :-----------------: |
-| night               | language            |💀|
-| nighthawk-kingdoms  | game                |  🚀                   |
+| [night](https://github.com/DynamicSquid/night)               | language            |💀|
+| [nighthawk-kingdoms](https://github.com/DynamicSquid/nighthawk-kingdoms)  | game                |  🚀                   |
